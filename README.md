@@ -1,4 +1,4 @@
 Pok-mon-Showdown-
 =================
 
-The Pokemon Showdown repository...
+This is the Pokémon Showdown repository. Here, the PS codes is here!
